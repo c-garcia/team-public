@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+bpython = "*"
+pytest = "*"
+pyhamcrest = "*"
+
+[packages]
+scipy = "*"
+numpy = "*"
+matplotlib = "*"
+jupyter = "*"
+jira = "*"
+python-dotenv = "*"
+pandas = "*"
+requests = "*"
+
+[requires]
+python_version = "3.7"
