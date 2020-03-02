@@ -28,7 +28,7 @@ def status_to_columns(counts):
         "DELETE ME": COL_IN_PROGRESS,
         "CODE REVIEW": COL_IN_PROGRESS,
         "IN QA": COL_IN_QA,
-        "IN UAT": COL_IN_SIGN_OFF,
+        "PO APPROVAL": COL_IN_SIGN_OFF,
         "LIVE": COL_DONE,
         "DONE": COL_DONE
     }
